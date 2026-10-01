@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 transcription,Transcription,
 translation,Translation,
-holding,Holding Institution,
+holding,Holding Institution,true
 shelfmark,Shelfmark,
 date,Date,
 description,Description,
