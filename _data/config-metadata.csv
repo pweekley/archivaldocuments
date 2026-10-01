@@ -1,10 +1,12 @@
 field,display_name,browse_link,external_link
 title,Title,
+transcription,Transcription,
+translation,Translation,
 holding,Holding Institution,
 shelfmark,Shelfmark,
 date,Date,
 description,Description,
 subject,Subjects,true
 location,Location
-format,Format,
 language,Language,
+format,Format,
