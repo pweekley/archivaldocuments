@@ -6,3 +6,4 @@ subject,true,true
 location,true,false
 transcription,true,true
 translation,true,true
+shelfmark,true,true
