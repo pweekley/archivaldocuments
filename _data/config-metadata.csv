@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 transcription,Transcription,
 translation,Translation,
+project,Projects,true
 holding,Holding Institution,true
 shelfmark,Shelfmark,
 date,Date,
@@ -10,4 +11,3 @@ subject,Subjects,true
 location,Location
 language,Language,
 format,Format,
-project,Projects,true
