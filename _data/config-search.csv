@@ -7,3 +7,4 @@ location,true,false
 transcription,true,true
 translation,true,true
 shelfmark,true,true
+project,true,true
